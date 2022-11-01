@@ -1,0 +1,32 @@
+.leftdiv{
+    float: left;
+    
+    
+   }
+   .rightdiv{
+    float: left;
+    top: 0;
+    padding: 3%;
+    margin-top: 0%;
+    
+    
+   }
+   .p2{
+    float: left;
+   }
+   .p3{
+    float: left;
+   }
+   .p4{
+    float: left;
+   }
+   .p5{
+    float: left;
+   }
+   .p6{
+    float: left;
+   }
+  
+   body {
+    zoom:0.25 !important;   
+    } 
